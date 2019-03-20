@@ -1,0 +1,238 @@
+{
+  "ret": true,
+  "data": {
+    "headerInfo": {
+      "backImg": "https://gw.alicdn.com/tfs/TB1tM0QDkvoK1RjSZFwXXciCFXa-72-72.png",
+      "title": "出境游",
+      "moerImg": "https://gw.alicdn.com/tfs/TB13nFEDgTqK1RjSZPhXXXfOFXa-72-72.png",
+      "headerBg": "http://gw.alicdn.com/tfs/TB1RbDVtbsrBKNjSZFpXXcXhFXa-750-473.png_790x10000.jpg"
+    },
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1cJGZCpOWBuNjy0FiXXXFxVXa-168-168.png",
+      "desc": "自由行"
+    },{
+      "id": "0002",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1o_qQCAyWBuNjy0FpXXassXXa-168-168.png",
+      "desc": "跟团游"
+    },{
+      "id": "0003",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1WWRkCTtYBeNjy1XdXXXXyVXa-168-168.png",
+      "desc": "游轮"
+    }, {
+      "id": "0004",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1vTAYCqmWBuNjy1XaXXXCbXXa-168-168.png",
+      "desc": "定制旅行"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1tEwYCqmWBuNjy1XaXXXCbXXa-168-168.png",
+      "desc": "境外玩乐"
+    },{
+      "id": "0006",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB18BrrCx9YBuNjy0FfXXXIsVXa-72-80.png",
+      "desc": "签证"
+    },{
+      "id": "0007",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1B5mRCuOSBuNjy0FdXXbDnVXa-72-80.png",
+      "desc": "境外上网"
+    },{
+      "id": "0008",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1TNKTCrGYBuNjy0FoXXciBFXa-82-80.png",
+      "desc": "用车"
+    },{
+      "id": "0009",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1DB_TCxGYBuNjy0FnXXX5lpXa-72-80.png",
+      "desc": "旅游保险"
+    },{
+      "id": "00010",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1ooy1CrSYBuNjSspiXXXNzpXa-76-76.png",
+      "desc": "更多"
+    }],
+    "commonTitle": {
+      "titleList1": {
+        "title": "热门目的地",
+        "desc": "世界那么大我想去看看"
+      },
+      "titleList2": {
+        "title": "旅行新玩法",
+        "desc": "满足你关于旅行的所有想象"
+      },
+      "titleList3": {
+        "title": "旅行日历",
+        "desc": "播报全世界的精彩"
+      },
+      "titleList4": {
+        "title": "猜你喜欢",
+        "desc": "每一个都是精挑细选"
+      }
+    },
+    "hotList": [{
+      "id": "001",
+      "imgUrl": "https://gw.alicdn.com/imgextra/i4/669272/TB24jKkrVXXXXbOXpXXXXXXXXXX_!!669272-0-travel.jpg_140x10000Q75.jpg",
+      "title": "新加坡",
+      "desc": "花园之城 星岛传奇"
+    },{
+      "id": "002",
+      "imgUrl": "https://gw.alicdn.com/imgextra/i1/2882533541/TB2D0YCrBjTBKNjSZFDXXbVgVXa_!!2882533541-0-wefliggy.jpg_140x10000Q75.jpg",
+      "title": "清迈",
+      "desc": "泰式小清新"
+    },{
+      "id": "003",
+      "imgUrl": "https://gw.alicdn.com/imgextra/i1/2882533541/O1CN01FJYwUj1c1oxKdL63H_!!2882533541-0-wefliggy.jpg_140x10000Q75.jpg",
+      "title": "巴厘岛",
+      "desc": "潜水胜地 蜜月天堂"
+    },{
+      "id": "004",
+      "imgUrl": "https://gw.alicdn.com/tps/TB1DrlpOVXXXXajaFXXXXXXXXXX-400-400.jpg_140x10000Q75.jpg",
+      "title": "东京",
+      "desc": "潮流先锋 古韵留存"
+    },{
+      "id": "005",
+      "imgUrl": "https://gw.alicdn.com/tps/TB1_woLPXXXXXXZXXXXXXXXXXXX-800-500.jpg_140x10000Q75.jpg",
+      "title": "沙巴",
+      "desc": "吃美食看日落潜水"
+    },{
+      "id": "006",
+      "imgUrl": "https://gw.alicdn.com/imgextra/i4/2882533541/O1CN01pKufTN1c1oxCMOztB_!!2882533541-0-wefliggy.jpg_140x10000Q75.jpg",
+      "title": "曼谷",
+      "desc": "天使之城 千佛之都"
+    }],
+    "advList": {
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1FEuJJkvoK1RjSZFDXXXY3pXa-702-120.png_790x10000.jpg"
+    },
+    "playList": [{
+      "id": "001",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i7/TB1TnoriLNNTKJjSspk3ymeWFXa_031414.jpg_230x10000Q75.jpg",
+      "desc": "免签落地签",
+      "desc1": "有护照就出发"
+    },{
+      "id": "002",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/2256687003/O1CN01Cp4RYp21bQ8hik37p_!!2256687003.jpg_230x10000Q75.jpg",
+      "desc": "尾单捡漏党",
+      "desc1": "小成本玩更多"
+    },{
+      "id": "003",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/2935198750/O1CN01hdKwt32EVY4EmkPfo_!!2935198750.jpg_230x10000Q75.jpg",
+      "desc": "越南小镇",
+      "desc1": "低成本度假国度"
+    }],
+    "travelTimeInfo": {
+      "month": [
+        {
+          "id": "001",
+          "detail": "3月"
+        },
+        {
+          "id": "002",
+          "detail": "4月"
+        },
+        {
+          "id": "003",
+          "detail": "5月"
+        }
+      ],
+      "day": [
+        {
+          "id": "001",
+          "detail": "3-6天"
+        },
+        {
+          "id": "002",
+          "detail": "7-9天"
+        },
+        {
+          "id": "003",
+          "detail": "10天以上"
+        }
+      ],
+      "adv": {
+        "spec": "樱花",
+        "country": "日本",
+        "moreGoods": "更多好货",
+        "moreImg": "https://gw.alicdn.com/tfs/TB1IAdpDDtYBeNjy1XdXXXXyVXa-20-36.png",
+        "advImg": "http://gw.alicdn.com/bao/uploaded/i1/2745708210/TB20W5me7OWBuNjSsppXXXPgpXa_!!2745708210.jpg_790x10000Q75.jpg",
+        "desc": "新年一过，距离日本“樱花季”就不远了。从最南端的冲绳到最北端的北海道，美丽的樱花依次开放，让这个国度弥漫着粉红的浪漫气息，令人心驰神往！"
+      },
+      "list": [
+        {
+          "id": "001",
+          "desc": "樱花热卖 全国直飞日本东京6天往返机票 品质航空 大额行李",
+          "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/2811704450/TB2wZkBuDqWBKNjSZFAXXanSpXa_!!2811704450.jpg_230x230Q75.jpg_.webp",
+          "price": 1499,
+          "theme": "自由行"
+        },
+        {
+          "id": "002",
+          "desc": "全国-东京大阪自由行5-7天日本出境旅游 往返机票+无线WiFi",
+          "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/3015407432/TB2CZMGdkZmBKNjSZPiXXXFNVXa_!!3015407432.jpg_230x230Q75.jpg_.webp",
+          "price": 1499,
+          "theme": "跟团游"
+        },
+        {
+          "id": "003",
+          "desc": "全国出发日本京都奈良东京大阪6天经典游/全程无自费",
+          "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/3025349600/O1CN01jwsQYH2KmqjJo1pbo_!!3025349600.jpg_230x230Q75.jpg_.webp",
+          "price": 3699,
+          "theme": "自由行"
+        }
+      ]
+    },
+    "youLikeList": [{
+      "id": "0001",
+      "theme": "自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/3825773078/O1CN011YblXoKt1nvSe6b_!!3825773078.jpg_Q75.jpg",
+      "desc": "仙本那旅游跳岛潜水一日游OW卡帕莱马达京旅拍海洋公园仙本那水屋",
+      "price": 186,
+      "totalsale":280
+    },{
+      "id": "0002",
+      "theme": "跟团游",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/3909777257/TB2GoDByMmTBuNjy1XbXXaMrVXa_!!3909777257.jpg_Q75.jpg",
+      "desc": "土耳其热气球 卡帕多奇亚格雷梅热气球 棉花堡热气球 皇家热气球",
+      "price": 982,
+      "totalsale": 62
+    },{
+      "id": "0003",
+      "theme": "一日游",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/3015407432/TB2nrV_J1uSBuNjy1XcXXcYjFXa_!!3015407432.jpg_Q75.jpg",
+      "desc": "【特卖尾单】 全国-曼谷7-8天自由行泰国旅游 往返机票+电子地图",
+      "price": 1199,
+      "totalsale":63
+    },{
+      "id": "0004",
+      "theme": "自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i7/TB1noP6EQvoK1RjSZFN62cxMVXa_064452.jpg_Q75.jpg",
+      "desc": "尾单报团|曼谷芭提雅6天5晚纯玩半自由行泰国旅游跟团含机票0自费",
+      "price": 2250,
+      "totalsale":245
+    },{
+      "id": "0005",
+      "theme": "一日游",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/1823789146/TB2.aCJt3mTBuNjy1XbXXaMrVXa_!!1823789146.jpg_220x10000Q75.jpg",
+      "desc": "尾单特卖 云南旅游大理丽江6天5晚跟团游吉普车洱海游艇 飞猪旅行",
+      "price": 2488,
+      "totalsale":1
+    },{
+      "id": "0006",
+      "theme": "跟团游",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i7/TB1eitoBpYqK1RjSZLeuFzXppXa_012548.jpg_Q75.jpg",
+      "desc": "泰国旅游 曼谷芭提雅沙美岛6天5晚跟团游含机票五星纯玩半自由行",
+      "price": 1499,
+      "totalsale":336
+    },{
+      "id": "0007",
+      "theme": "自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/2232026620/TB254I.h4uTBuNkHFNRXXc9qpXa_!!2232026620.jpg_Q75.jpg",
+      "desc": "马尔代夫 奥静岛五星级自由行旅游蜜月亲子一价全包全国出发代理",
+      "price": 12666,
+      "totalsale":299
+    },{
+      "id": "0008",
+      "theme": "自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/4118402917/O1CN011XQ1mLAAqirwWfB_!!4118402917.jpg_Q75.jpg",
+      "desc": "全国-欧洲旅游德国法国意大利瑞士巴黎9-12天跟团游 西欧多地连游",
+      "price": 4999,
+      "totalsale":228
+    }]
+  }
+}

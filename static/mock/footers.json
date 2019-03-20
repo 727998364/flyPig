@@ -1,0 +1,31 @@
+{
+  "ret": true,
+  "data": {
+    "footerList": [{
+      "id": "001",
+      "imgUrl": "../static/img/f1.png",
+      "imgUrlAcive": "../static/img/f1-a.png",
+      "desc": "首页"
+    },{
+      "id": "002",
+      "imgUrl": "../static/img/f2.png",
+      "imgUrlAcive": "../static/img/f2-a.png",
+      "desc": "发现"
+    },{
+      "id": "003",
+      "imgUrl": "../static/img/f3.png",
+      "imgUrlAcive": "../static/img/f3-a.png",
+      "desc": "目的地"
+    },{
+      "id": "004",
+      "imgUrl": "../static/img/f4.png",
+      "imgUrlAcive": "../static/img/f4-a.png",
+      "desc": "行程"
+    },{
+      "id": "005",
+      "imgUrl": "../static/img/f5.png",
+      "imgUrlAcive": "../static/img/f5-a.png",
+      "desc": "我的"
+    }]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1VPe8IMHqK1RjSZFkXXX.WFXa-750-150.jpg_640x640q75.jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "https://img.alicdn.com/imgextra/i1/731853283/O1CN01Rzm1fk1a7embZxy0V_!!731853283.jpg_640x640q75.jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "https://img.alicdn.com/imgextra/i3/2878627908/O1CN01RI0Rk228HuaMLQjWr_!!2878627908.jpg_640x640q75.jpg"
+    },{
+      "id": "0004",
+      "imgUrl": "https://img.alicdn.com/imgextra/i1/3380110773/O1CN01T7EEKx1Ha4ejOuh6m_!!3380110773.jpg_640x640q75.jpg"
+    },{
+      "id": "0005",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB17WvdENjaK1RjSZKzXXXVwXXa-750-150.jpg_640x640q75.jpg"
+    },{
+      "id": "0006",
+      "imgUrl": "https://img.alicdn.com/imgextra/i2/3129425418/O1CN01suuTFa1ptUNHbx4OU_!!3129425418.jpg_640x640q75.jpg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "https://img.alicdn.com/tfs/TB1LaE5qmBYBeNjy0FeXXbnmFXa-86-86.png",
+      "desc": "风景名胜"
+    },{
+      "id": "0002",
+      "imgUrl": "https://gw.alicdn.com/tfs/TB1nrWot4GYBuNjy0FnXXX5lpXa-172-172.png",
+      "desc": "文化宗教"
+    },{
+      "id": "0003",
+      "imgUrl": "https://img.alicdn.com/tfs/TB1LGE5qmBYBeNjy0FeXXbnmFXa-86-86.png",
+      "desc": "动植物园"
+    }, {
+        "id": "0004",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1Z.P6qkCWBuNjy0FaXXXUlXXa-86-86.png",
+        "desc": "人文建筑"
+    }, {
+        "id": "0005",
+        "imgUrl": "https://img.alicdn.com/tfs/TB17L6_qhSYBuNjSspjXXX73VXa-86-86.png",
+        "desc": "演出表演"
+    },{
+        "id": "0006",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1nZM9qmtYBeNjSspkXXbU8VXa-86-86.png",
+        "desc": "温泉"
+    },{
+        "id": "0007",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1GUP6qkCWBuNjy0FaXXXUlXXa-86-86.png",
+        "desc": "海洋公园"
+    },{
+        "id": "0008",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1WR.Bqh9YBuNjy0FfXXXIsVXa-86-86.png",
+        "desc": "滑雪"
+    },{
+        "id": "0009",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1ioT6qkCWBuNjy0FaXXXUlXXa-86-86.png",
+        "desc": "主题乐园"
+    },{
+        "id": "00010",
+        "imgUrl": "https://img.alicdn.com/tfs/TB1JW2gqf9TBuNjy0FcXXbeiFXa-86-86.png",
+        "desc": "全部景点"
+    }],
+    "spotList": [{
+      "id": "0001",
+      "title": "灵隐飞来峰",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/154620273523237050/TB24CqUaNrxQeBjy1zeXXXhAVXa_!!0-travel.jpg_360x360Q75.jpg",
+      "desc": "有雕刻了很多佛像，可寻找一线天，风景很美，适合拍照。",
+      "level": "5A景区",
+      "indate": "今日可用",
+      "price": 45,
+      "score": 4.2,
+      "totalsale":17.2
+    },{
+        "id": "0002",
+        "title": "宋城千古情",
+        "imgUrl": "https://img.alicdn.com/bao/uploaded///img.alicdn.com/tfscom/TB1zgFdXFmWBuNjSspdSuvugXXa_360x360Q75.jpg",
+        "desc": "有很多玩乐设施，可以去鬼屋练练胆，千古情的表演很精彩。",
+        "level": "4A景区",
+        "indate": "今日可用",
+        "price": 290,
+        "score": 4.9,
+        "totalsale":1
+    },{
+      "id": "0003",
+      "title": "杭州野生动物园",
+      "imgUrl": "https://img.alicdn.com/bao/uploaded///img.alicdn.com/tfscom/TB15ehsXmCWBuNjy0FhSuv6EVXa_360x360Q75.jpg",
+      "desc": "有据说比较罕见的雪虎，近距离接触动物，宝宝很兴奋。",
+      "level": "4A景区",
+      "indate": "今日可用",
+      "price": 207.5,
+      "score": 4.9,
+      "totalsale":6681
+    },{
+      "id": "0004",
+      "title": "印象西湖",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/TB2luFSlFooBKNjSZPhXXc2CXXa_!!0-travel.jpg_360x360Q75.jpg",
+      "desc": "有据说比较罕见的雪虎，近距离接触动物，宝宝很兴奋。",
+      "level": "暂无评级",
+      "indate": "可今日订票",
+      "price": 380,
+      "score": 4.7,
+      "totalsale":1196
+    },{
+      "id": "0005",
+      "title": "杭州动物园",
+      "imgUrl": "https://img.alicdn.com/bao/uploaded///img.alicdn.com/tfscom/TB1srNhXQSWBuNjSszdSuveSpXa_360x360Q75.jpg",
+      "desc": "海狮等表演是一定要看的，小宝宝喜欢得不得了！",
+      "level": "5A景区",
+      "indate": "明日可用",
+      "price": 20,
+      "score": 4.8,
+      "totalsale":7137
+    },{
+      "id": "0006",
+      "title": "西溪国家湿地公园",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/O1CN01NMpx9l1lIc1ZFz3qn_!!0-travel.jpg_360x360Q75.jpg",
+      "desc": "《非诚勿扰》的取景地，坐摇橹船对两岸的芦苇，拍拍拍。",
+      "level": "5A景区",
+      "indate": "明日可用",
+      "price": 60,
+      "score": 4.8,
+      "totalsale":3542
+    },{
+      "id": "0007",
+      "title": "杭州浪浪水公园",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/TB1ZsEvXDzGK1JjSspmlPqq7pXa_035545.jpg_360x360Q75.jpg",
+      "desc": "来杭州浪浪浪水公园，玩转冰雪泡沫节",
+      "level": "4A景区",
+      "indate": "今日可用",
+      "price": 76,
+      "score": 4.1,
+      "totalsale":1
+    },{
+      "id": "0008",
+      "title": "千岛湖中心湖区",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i3/135130262436361789/TB2FDTatVXXXXcNXXXXXXXXXXXX_!!0-travel.jpg_360x360Q75.jpg",
+      "desc": "可谓是景区精华所在，登上高峰后能俯看整个千岛湖！",
+      "level": "5A景区",
+      "indate": "可定今日票",
+      "price": 185,
+      "score": 4.9,
+      "totalsale":2817
+    },{
+      "id": "0009",
+      "title": "杭州临安大明山",
+      "imgUrl": "https://img.alicdn.com/bao/uploaded///img.alicdn.com/tfscom/TB1UXhgXMaTBuNjSszfSutgfpXa_360x360Q75.jpg",
+      "desc": "悬空栈道还是具有挑战性的，然后坐滑梯下山爽歪歪！",
+      "level": "暂无评级",
+      "indate": "明日可用",
+      "price": 135,
+      "score": 4.4,
+      "totalsale":2779
+    },{
+      "id": "0010",
+      "title": "杭州长乔极地海洋公园",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/TB1K5cGEsfpK1RjSZFOcfW6nFXa_120034.jpg_360x360Q75.jpg",
+      "desc": "可以近距离观看海底生物，海豚，企鹅，是小朋友最喜欢的。",
+      "level": "4A景区",
+      "indate": "今日可用",
+      "price": 209,
+      "score": 4.7,
+      "totalsale":2879
+    }]
+  }
+}

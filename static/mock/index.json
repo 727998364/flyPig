@@ -1,0 +1,224 @@
+{
+  "ret": true,
+  "data": {
+    "headerInfo": {
+      "indexLogo": "../static/img/indexlogo.png",
+      "indexHeader": "../static/img/index-header.png",
+      "indexHeaderBg": "http://gw.alicdn.com/tfs/TB1ZPa0EzTpK1RjSZKPXXa3UpXa-750-420.png_790x10000.jpg",
+      "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://gw.alicdn.com/tfs/TB1a0OZI6TpK1RjSZKPXXa3UpXa-1125-352.jpg_790x10000Q75.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://gw.alicdn.com/tfs/TB1hQFgI4TpK1RjSZFKXXa2wXXa-1125-352.jpg_790x10000Q75.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://gw.alicdn.com/tfs/TB1mabXIIfpK1RjSZFOXXa6nFXa-1125-352.jpg_790x10000Q75.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://gw.alicdn.com/tfs/TB1aBeXJmrqK1RjSZK9XXXyypXa-1125-352.jpg_790x10000Q75.jpg"
+      },{
+        "id": "0005",
+        "imgUrl": "http://gw.alicdn.com/tfs/TB13iC_JmzqK1RjSZFjXXblCFXa-1125-352.png_790x10000.jpg"
+      }]
+    },
+    "indexIconInfo": [{
+      "id": "0001",
+      "imgUrl": "http://gw.alicdn.com/tfs/TB1DoXFwHsrBKNjSZFpXXcXhFXa-210-126.png_110x10000.jpg",
+      "desc": "机票",
+      "url": "/##"
+    },{
+      "id": "0002",
+      "imgUrl": "http://gw.alicdn.com/tfs/TB1s51ECuOSBuNjy0FdXXbDnVXa-210-126.png_110x10000.jpg",
+      "desc": "酒店",
+      "url": "/##"
+    },{
+      "id": "0003",
+      "imgUrl": "http://gw.alicdn.com/tfs/TB1BNE_wrZnBKNjSZFrXXaRLFXa-210-126.png_110x10000.jpg",
+      "desc": "火车票",
+      "url": "/##"
+    },{
+      "id": "0004",
+      "imgUrl": "http://gw.alicdn.com/tfs/TB1pN01wsUrBKNjSZPxXXX00pXa-210-126.png_110x10000.jpg",
+      "desc": "汽车票",
+      "url": "/##"
+    },{
+      "id": "0005",
+      "imgUrl": "http://gw.alicdn.com/tfs/TB1aJ4MwHArBKNjSZFLXXc_dVXa-210-126.png_110x10000.jpg",
+      "desc": "门票",
+      "url": "/tickets"
+    }],
+    "meauList":[{
+      "id": "001",
+      "title": "出境游",
+      "desc": "走遍全球",
+      "url": "/exits"
+    },{
+      "id": "002",
+      "title": "境内游",
+      "desc": "精选路线",
+      "url": "/##"
+    },{
+      "id": "003",
+      "title": "周边游",
+      "desc": "领大额券",
+      "url": "/##"
+    },{
+      "id": "004",
+      "title": "邮轮",
+      "desc": "吃住全包",
+      "url": "/##"
+    },{
+      "id": "005",
+      "title": "签证",
+      "desc": "签遍全球",
+      "url": "/##"
+    },{
+      "id": "006",
+      "title": "境外上网",
+      "desc": "信用免押",
+      "url": "/##"
+    },{
+      "id": "007",
+      "title": "用车",
+      "desc": "9折优惠",
+      "url": "/##"
+    },{
+      "id": "008",
+      "title": "全部",
+      "desc": "更多推荐",
+      "url": "/##"
+    }],
+    "commonTitle": {
+      "titleContent1": {
+        "title": "当季旅行地",
+        "link": "探索更多目的地"
+      },
+      "titleContent2": {
+        "title": "旅行主题",
+        "link": "最适合你的旅行方式"
+      },
+      "titleContent3": {
+        "title": "旅行直播",
+        "link": "达人带你看世界"
+      },
+      "titleContent4": {
+        "title": "猜你喜欢",
+        "link": "你想要的旅行好贷"
+      }
+    },
+    "travelList": {
+      "localTravel": [{
+        "id": "001",
+        "imgUrl": "https://gw.alicdn.com/imgextra/i2/2882533541/TB2IsADrcUrBKNjSZPxXXX00pXa_!!2882533541-0-wefliggy.jpg_110x10000Q75.jpg",
+        "desc": "成都"
+      },{
+        "id": "002",
+        "imgUrl": "https://gw.alicdn.com/imgextra/i4/669272/TB2ZzvXrVXXXXadXXXXXXXXXXXX_!!0-travel.jpg_110x10000Q75.jpg",
+        "desc": "香港"
+      },{
+        "id": "003",
+        "imgUrl": "https://gw.alicdn.com/imgextra/i1/669272/TB2mR7YspXXXXcJXpXXXXXXXXXX_!!0-travel.jpg_110x10000Q75.jpg",
+        "desc": "曼谷"
+      },{
+        "id": "004",
+        "imgUrl": "https://gw.alicdn.com/tps/TB1EQxUOVXXXXX6XFXXXXXXXXXX-800-800.jpg_110x10000Q75.jpg",
+        "desc": "惠州"
+      }],
+      "travelTheme": [{
+        "id": "001",
+        "imgUrl": "https://gw.alicdn.com/tips/i3/3193027969/TB2T6U_jcrI8KJjy0FhXXbfnpXa_!!3193027969.jpg_570x10000Q75.jpg",
+        "desc": "男生最爱玩",
+        "desc1": "热血老司机"
+      },{
+        "id": "002",
+        "imgUrl": "https://gw.alicdn.com/tips/i4/101705719/O1CN011s7LZLpewQHCsxa_!!101705719.jpg_230x10000Q75.jpg",
+        "desc": "学生党最爱",
+        "desc1": "性价比之王"
+      },{
+        "id": "003",
+        "imgUrl": "https://gw.alicdn.com/tips/i4/2532789463/TB2_aEKsnlYBeNjSszcXXbwhFXa_!!2532789463.jpg_230x10000Q75.jpg",
+        "desc": "民俗小时光",
+        "desc1": "感受清新之美"
+      },{
+        "id": "004",
+        "imgUrl": "https://gw.alicdn.com/tips/i4/1891180929/TB2zd1iyfuSBuNkHFqDXXXfhVXa_!!1891180929.jpg_230x10000Q75.jpg",
+        "desc": "免签落地签",
+        "desc1": "有护照就出发"
+      },{
+        "id": "005",
+        "imgUrl": "https://gw.alicdn.com/tips/i4/3518976384/O1CN01m3rEcI1x1uyoORJl9_!!3518976384.jpg_230x10000Q75.jpg",
+        "desc": "萌娃必住榜",
+        "desc1": "温馨亲子时光"
+      }],
+      "travelLive": [{
+        "id": "001",
+        "imgUrl": "https://gw.alicdn.com/tfscom/i4/O1CN01EWYHL61v8DCFClp4k_!!0-dgshop.jpg_360x10000Q75.jpg",
+        "desc1": "春暖花开！红包雨来袭",
+        "desc2": "7766"
+      },{
+        "id": "002",
+        "imgUrl": "https://gw.alicdn.com/tfscom/i4/O1CN01TqF4X91v8DCCix5HY_!!0-dgshop.jpg_360x10000Q75.jpg",
+        "desc1": "跟着音乐去旅行",
+        "desc2": "14019"
+      }]
+    },
+    "youLikeList": [{
+      "id": "0001",
+      "title": "上海·国内门票",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/597427690/O1CN01xMsJPQ26g4EeQ56rD_!!597427690.jpg_220x10000Q75.jpg",
+      "desc": "今日可定上海迪士尼门票一日上海迪士尼乐园1日票上海迪斯尼门票",
+      "price": 250,
+      "totalsale":49.7
+    },{
+      "id": "0002",
+      "title": "北京·交通卡",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i3/204718222/TB2_.guca8lpuFjy0FpXXaGrpXa_!!204718222.jpg_220x10000Q75.jpg",
+      "desc": "北京市政交通一卡通 交通卡 公交地铁通用 支持NFC 送游览图卡套",
+      "price": 42,
+      "totalsale": 5
+    },{
+      "id": "0003",
+      "title": "马尔代夫·自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/2232026620/TB2YRf_kMZC2uNjSZFnXXaxZpXa_!!2232026620.jpg_220x10000Q75.jpg",
+      "desc": "【无边泳池】马尔代夫超六星级岛自由行全国出发蜜月亲子旅游甩尾",
+      "price": 14999,
+      "totalsale":0.8
+    },{
+      "id": "0004",
+      "title": "上海·国内门票",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/TB1LJraIeySBuNjy1zdRA0PxFXa_024106.jpg_220x10000Q75.jpg",
+      "desc": "今日可用上海迪士尼门票一日票上海迪斯尼门票上海迪士尼乐园门票",
+      "price": 242,
+      "totalsale":104.1
+    },{
+      "id": "0005",
+      "title": "丽江·跟团游",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/1823789146/TB2.aCJt3mTBuNjy1XbXXaMrVXa_!!1823789146.jpg_220x10000Q75.jpg",
+      "desc": "尾单特卖 云南旅游大理丽江6天5晚跟团游吉普车洱海游艇 飞猪旅行",
+      "price": 2488,
+      "totalsale":1
+    },{
+      "id": "0006",
+      "title": "东京·自由行",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i4/2811704450/TB2wZkBuDqWBKNjSZFAXXanSpXa_!!2811704450.jpg_220x10000Q75.jpg",
+      "desc": "樱花热卖 全国直飞日本东京6天往返机票 品质航空 大额行李",
+      "price": 1499,
+      "totalsale":0.1
+    },{
+      "id": "0007",
+      "title": "珠海·国内门票",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i2/3121617481/TB2gN5jb26H8KJjy0FjXXaXepXa_!!3121617481.jpg_220x10000Q75.jpg",
+      "desc": "当天可定 珠海长隆海洋王国门票海洋公园世界门票家庭票大学生票",
+      "price": 338,
+      "totalsale":6.3
+    },{
+      "id": "0008",
+      "title": "北京·当地玩乐",
+      "imgUrl": "https://gw.alicdn.com/bao/uploaded/i1/490728022/TB20mHkk3fH8KJjy1zcXXcTzpXa_!!490728022.jpg_220x10000Q75.jpg",
+      "desc": "北京古北之光温泉度假酒店2天1晚自由行 游水镇享温泉美食C",
+      "price": 1036,
+      "totalsale":0.3
+    }]
+  }
+}

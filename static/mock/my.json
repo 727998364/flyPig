@@ -1,0 +1,92 @@
+{
+  "ret": true,
+  "data": {
+    "headerInfo": [{
+      "id": "001",
+      "number": 3,
+      "desc": "收藏"
+    },{
+      "id": "002",
+      "number": 6,
+      "desc": "浏览历史"
+    },{
+      "id": "003",
+      "number": 0,
+      "desc": "红包卡券"
+    },{
+      "id": "004",
+      "number": 0,
+      "desc": "购物车"
+    }],
+    "orderList":[{
+      "id": "001",
+      "imgUrl": "../static/img/my1.png",
+      "desc": "代付款"
+    },{
+      "id": "002",
+      "imgUrl": "../static/img/my2.png",
+      "desc": "处理中"
+    },{
+      "id": "003",
+      "imgUrl": "../static/img/my3.png",
+      "desc": "待出行"
+    },{
+      "id": "004",
+      "imgUrl": "../static/img/my4.png",
+      "desc": "待评价"
+    },{
+      "id": "005",
+      "imgUrl": "../static/img/my5.png",
+      "desc": "退款/售后"
+    }],
+    "toolsList": [{
+      "id": "001",
+      "imgUrl": "../static/img/my-c1.png",
+      "desc": "我的会员卡"
+    },{
+      "id": "002",
+      "imgUrl": "../static/img/my-c2.png",
+      "desc": "常用信息"
+    },{
+      "id": "003",
+      "imgUrl": "../static/img/my-c3.png",
+      "desc": "翻译助手"
+    },{
+      "id": "004",
+      "imgUrl": "../static/img/my-c4.png",
+      "desc": "超级旅行地"
+    },{
+      "id": "005",
+      "imgUrl": "../static/img/my-c1.png",
+      "desc": "口令兑换"
+    },{
+      "id": "006",
+      "imgUrl": "../static/img/my-c2.png",
+      "desc": "有奖反馈"
+    },{
+      "id": "007",
+      "imgUrl": "../static/img/my-c3.png",
+      "desc": "流量中心"
+    },{
+      "id": "008",
+      "imgUrl": "../static/img/my-c4.png",
+      "desc": "关注店铺"
+    }],
+    "hyqyList": [{
+      "id": "001",
+      "imgUrl": "../static/img/my01.png",
+      "desc": "F2/F3高星酒店...",
+      "desc1": "查看详情"
+    },{
+      "id": "002",
+      "imgUrl": "../static/img/my02.png",
+      "desc": "万豪会员卡",
+      "desc1": "查看详情"
+    },{
+      "id": "003",
+      "imgUrl": "../static/img/my03.png",
+      "desc": "流量代金券",
+      "desc1": "2里程起兑"
+    }]
+  }
+}
